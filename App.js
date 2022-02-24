@@ -49,3 +49,5 @@ class App extends Component {
 }
 
 export default App;
+
+link loader:-https://lottiefiles.com/search?q=google%20loading&category=animations
